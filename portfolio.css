@@ -1,0 +1,55 @@
+h3{color:maroon;
+text-align:left;
+font-size:14pt;
+}
+
+body {
+font-size: medium;
+background-color: aliceblue;
+color: maroon;
+}
+
+hr {color: #maroon; height: 2px }
+a {color: #maroon; 
+padding: .2em 1em;
+text-decoration: none; 
+background-color: #aliceblue;
+}
+
+#list ul li a:hover
+{ color: white;
+  background-color: maroon;
+  text-decoration: none; 
+}
+
+#list
+{text-align: center;
+text-decoration: none; }
+
+#table 
+{text-align: center;}
+
+p { color: maroon; }
+h2{ color: maroon; }
+h1 {text-align: center;
+font-family: 'Cinzel Decorative', cursive;
+font-size: 200%;}
+
+#first
+ {text-align: center;}
+
+#list ul li {display: inline;
+  { list-style-type: none; 
+padding: 0;
+margin: 0;
+text-align: center}
+
+#table ul li {display: inline;
+  { list-style-type: none; 
+padding: 0;
+margin: 0;
+text-align: center}
+
+
+
+
